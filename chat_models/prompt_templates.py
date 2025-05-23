@@ -15,5 +15,5 @@ messages = [
 prompt_template = ChatPromptTemplate.from_messages(messages)
 prompt = prompt_template.invoke({"role": "AI assistant", "organization": "Argonne", "division": "ALCF"})
 result = llm.invoke(prompt)
-print(result.content)
+print(result)
 
