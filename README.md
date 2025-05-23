@@ -2,7 +2,7 @@
 More updates coming on langchain and langgraph in this repo...
 
 ## Install
-Create a .env file in the ./parent/ folder and install necessary packages.
+Create a .env file in the ./parent/ folder and create a variable: OPENAI_API_KEY that stores the API key for an OPENAI model . Install necessary packages.
 ```
 pip install langchain
 ```
