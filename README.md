@@ -2,7 +2,7 @@
 More updates coming on langchain and langgraph in this repo...
 
 ## Install
-
+Create a .env file in the ./parent/ folder. Install necessary packages.
 ```
 pip install langchain
 ```
