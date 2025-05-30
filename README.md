@@ -11,16 +11,3 @@ pip install langgraph
 pip install chromadb
 pip install langchain-chroma
 ```
-
-```
-pip install langchain-openai
-```
-
-```
-pip install python-dotenv
-```
-
-
-```
-pip install langgraph
-```
